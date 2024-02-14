@@ -1,1 +1,3 @@
 text file for sub branch f1-b
+
+changing as a qa bug fix
