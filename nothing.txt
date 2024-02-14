@@ -1,1 +1,7 @@
 signature for f1-a sub-branch
+<<<<<<< HEAD
+modified signature.
+=======
+
+modified signature.
+>>>>>>> 79bb7028749d4a6bc9d82c124a8966645b697dbf
